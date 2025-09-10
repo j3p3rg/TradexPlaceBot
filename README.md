@@ -64,18 +64,33 @@ It detects scams, rugpulls, liquidity risks, whale activity, and provides action
 
 ---
 
+## 🏗️ Screenshots  
+
+Here’s how TradexPlaceBot works under the hood:  
+
+![TradexPlaceBot Architecture](IMG_0918.jpeg)  
+(IMG_0919.jpeg) 
+(IMG_0920.jpeg) 
+(IMG_0923.jpeg) 
+(IMG_0924.jpeg) 
+(IMG_0925.jpeg) 
+
+---
+
+## 🚀 Usage 
+
 ## 🚀 Usage  
 
 1. Open Telegram and start the bot: [@TradexPlaceBot](https://t.me/TradexPlaceBot)  
 2. Use `/advisor` for major coins.  
    - Example:  
      ```
-     /advisor SOL
+     /advisor 
      ```  
 3. Use a **contract address** to audit altcoins or memecoins.  
-   - Example:  
+   - Example:  send contract address / mint to the bot
      ```
-     /advisor CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp
+     Ey59PH7Z4BFU4HjyKnyMdWt5GGN76KazTAwQihoUXRnk
      ```  
 4. Receive full report:  
    - Technical analysis.  
