@@ -68,12 +68,12 @@ It detects scams, rugpulls, liquidity risks, whale activity, and provides action
 
 Here’s how TradexPlaceBot works under the hood:  
 
-![TradexPlaceBot Architecture](IMG_0918.jpeg)  
-(IMG_0919.jpeg) 
-(IMG_0920.jpeg) 
-(IMG_0923.jpeg) 
-(IMG_0924.jpeg) 
-(IMG_0925.jpeg) 
+![TradexPlaceBot Architecture](IMG_0918.png)  
+![TradexPlaceBot Architecture](IMG_0919.png) 
+![TradexPlaceBot Architecture](IMG_0920.jpeg) 
+![TradexPlaceBot Architecture](IMG_0923.png) 
+![TradexPlaceBot Architecture](IMG_0924.png) 
+![TradexPlaceBot Architecture](IMG_0925.png) 
 
 ---
 
